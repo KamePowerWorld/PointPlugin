@@ -9,6 +9,6 @@ commands:
     usage: /ranking
 
 permissions:
-  pointpligin.admin:
+  pointplugin.admin:
     description: Allow creating PointShop signs
     default: op

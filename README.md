@@ -121,12 +121,11 @@ mvn package
 `plugin.yml` では `op` のみに許可されています。
 
 注意:
-権限名はコード上も `plugin.yml` 上も **`pointpligin.admin`** です。  
-`pointplugin.admin` ではないので、権限プラグインで設定するときはスペルに注意してください。
+権限名はコード上も `plugin.yml` 上も **`pointplugin.admin`** です。
 
 ## ポイントショップの作り方
 
-権限 `pointpligin.admin` を持つプレイヤーが、看板の 1 行目に次を書いて設置します。
+権限 `pointplugin.admin` を持つプレイヤーが、看板の 1 行目に次を書いて設置します。
 
 ```text
 [PointShop]
