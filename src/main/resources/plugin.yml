@@ -1,6 +1,6 @@
-name: PointPligin
-version: 1.1.0
-main: com.example.pointpligin.Main
+name: PointPlugin
+version: 1.2.1
+main: com.rei.pointplugin.Main
 api-version: "1.21"
 
 commands:
